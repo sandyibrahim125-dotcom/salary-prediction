@@ -1,0 +1,72 @@
+{
+  "numeric_features": [
+    "Age",
+    "Years of Experience"
+  ],
+  "categorical_features": [
+    "Gender",
+    "Education Level",
+    "Job Title",
+    "Location"
+  ],
+  "categorical_options": {
+    "Gender": [
+      "Female",
+      "Male"
+    ],
+    "Education Level": [
+      "Bachelor's",
+      "High School",
+      "Master's",
+      "PhD"
+    ],
+    "Job Title": [
+      "Account Manager",
+      "Business Analyst",
+      "Customer Service Representative",
+      "Data Analyst",
+      "Data Scientist",
+      "Director",
+      "Financial Analyst",
+      "Graphic Designer",
+      "HR Manager",
+      "IT Support Specialist",
+      "Junior Developer",
+      "Marketing Manager",
+      "Operations Manager",
+      "Product Manager",
+      "Project Manager",
+      "Research Scientist",
+      "Sales Associate",
+      "Sales Manager",
+      "Senior Software Engineer",
+      "Software Engineer"
+    ],
+    "Location": [
+      "Atlanta",
+      "Austin",
+      "Boston",
+      "Chicago",
+      "Denver",
+      "Los Angeles",
+      "New York",
+      "Remote",
+      "San Francisco",
+      "Seattle"
+    ]
+  },
+  "numeric_ranges": {
+    "Age": [
+      21.0,
+      65.0
+    ],
+    "Years of Experience": [
+      0.0,
+      32.6
+    ]
+  },
+  "target": "Salary",
+  "test_mae": 7480.963557798768,
+  "test_rmse": 9524.765947204012,
+  "test_r2": 0.9051947560135744
+}
