@@ -1,0 +1,1201 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Location,Salary
+27.0,Male,Master's,Graphic Designer,6.0,Austin,72786.92
+34.0,Male,Master's,Junior Developer,7.1,Seattle,97736.39
+38.0,Female,PhD,HR Manager,13.9,Seattle,152302.5
+46.0,Male,High School,Product Manager,13.6,Denver,80954.42
+36.0,Female,PhD,Product Manager,6.5,Chicago,137342.66
+42.0,Male,High School,Sales Manager,20.1,Los Angeles,82066.54
+44.0,Male,Bachelor's,Data Analyst,17.2,Boston,97173.11
+45.0,Male,Master's,Senior Software Engineer,15.4,Atlanta,147432.97
+40.0,Female,Bachelor's,Data Analyst,13.9,Atlanta,85595.47
+44.0,Male,Master's,Marketing Manager,6.8,Denver,96857.76
+35.0,,Bachelor's,Graphic Designer,13.7,Boston,74672.78
+39.0,Male,Master's,Data Scientist,12.2,Remote,125480.08
+33.0,Male,High School,HR Manager,10.0,Los Angeles,62200.28
+42.0,Female,High School,HR Manager,12.1,Boston,70376.48
+44.0,Male,Master's,Junior Developer,11.4,Chicago,91461.68
+26.0,Male,High School,Director,4.7,San Francisco,121654.96
+42.0,Male,High School,Sales Manager,14.2,Austin,70401.69
+23.0,,Bachelor's,Sales Associate,0.0,Los Angeles,53398.65
+34.0,Male,Master's,Senior Software Engineer,12.3,Austin,135378.29
+28.0,Female,Bachelor's,Data Analyst,2.5,Seattle,64886.08
+40.0,Male,Bachelor's,IT Support Specialist,8.1,New York,73833.04
+38.0,Female,Bachelor's,Data Scientist,15.8,Boston,114039.02
+40.0,Male,Bachelor's,Sales Associate,15.9,Boston,94169.82
+31.0,Male,Bachelor's,Research Scientist,1.8,Remote,65519.88
+35.0,Male,Bachelor's,Financial Analyst,1.8,Seattle,83808.76
+65.0,Female,Bachelor's,Product Manager,25.9,Remote,115597.72
+29.0,Female,Bachelor's,HR Manager,2.7,Austin,75065.88
+36.0,Male,Master's,Sales Associate,4.1,San Francisco,87742.15
+40.0,Female,,Senior Software Engineer,17.5,Chicago,127754.23
+28.0,Male,Bachelor's,Business Analyst,0.9,Chicago,59961.68
+28.0,Female,Master's,Marketing Manager,7.0,Boston,107955.42
+42.0,Female,PhD,Marketing Manager,9.7,Seattle,133402.37
+53.0,Male,Master's,IT Support Specialist,18.2,San Francisco,136156.01
+33.0,Female,Master's,IT Support Specialist,11.0,New York,113814.54
+25.0,Male,Bachelor's,Data Analyst,0.0,New York,71922.88
+52.0,Female,High School,Marketing Manager,12.6,Chicago,75499.96
+37.0,Female,PhD,Software Engineer,8.1,San Francisco,150653.51
+21.0,Male,Master's,Account Manager,0.0,Boston,76687.12
+34.0,Male,Bachelor's,Director,10.8,Atlanta,126774.98
+48.0,Male,Bachelor's,Sales Associate,17.0,Los Angeles,85772.97
+35.0,Male,PhD,Customer Service Representative,8.7,Atlanta,96512.94
+63.0,Male,Bachelor's,Product Manager,30.6,Los Angeles,149535.7
+32.0,Female,Bachelor's,Data Analyst,7.3,Austin,70405.12
+36.0,Female,Bachelor's,Account Manager,4.0,Atlanta,79666.25
+29.0,Female,Bachelor's,IT Support Specialist,4.0,Austin,67175.48
+,Male,Bachelor's,Research Scientist,6.0,San Francisco,101570.6
+41.0,Male,Bachelor's,Sales Associate,17.9,Los Angeles,93254.03
+34.0,Male,High School,Financial Analyst,6.6,San Francisco,76810.96
+40.0,Male,High School,Operations Manager,8.2,Remote,57412.58
+38.0,Female,Bachelor's,Senior Software Engineer,9.4,Atlanta,111638.97
+65.0,Female,Bachelor's,Operations Manager,32.6,Los Angeles,135881.66
+40.0,Male,Bachelor's,Data Scientist,6.0,Atlanta,91176.5
+21.0,Female,,Account Manager,0.0,Austin,91170.85
+38.0,Female,Master's,Director,8.2,San Francisco,164808.14
+52.0,Female,Bachelor's,Sales Manager,6.8,Boston,88055.96
+21.0,Female,High School,Customer Service Representative,0.0,Austin,28000.0
+34.0,Male,Bachelor's,Graphic Designer,6.9,Austin,71290.27
+55.0,Male,PhD,Financial Analyst,23.4,Remote,173003.61
+46.0,Female,Master's,Customer Service Representative,12.6,New York,107697.5
+45.0,Male,Bachelor's,Research Scientist,12.4,Boston,114545.21
+45.0,Female,Master's,Data Analyst,6.9,Los Angeles,95830.32
+44.0,Female,Bachelor's,Account Manager,9.9,Los Angeles,87986.69
+31.0,Male,Bachelor's,Operations Manager,6.7,New York,80322.26
+38.0,Female,Bachelor's,Business Analyst,11.0,Seattle,83720.57
+43.0,Female,PhD,Data Scientist,5.8,Seattle,147059.5
+46.0,Female,Master's,Director,18.0,Atlanta,171206.41
+29.0,Male,Bachelor's,Product Manager,3.8,Los Angeles,100978.95
+36.0,Male,Bachelor's,Product Manager,14.2,Remote,98886.5
+46.0,Female,Master's,Research Scientist,13.8,New York,147930.92
+61.0,Female,High School,Data Analyst,21.2,San Francisco,103305.53
+39.0,Female,Master's,Junior Developer,15.1,Seattle,103652.33
+42.0,Male,Bachelor's,Director,13.6,Denver,129083.4
+38.0,,PhD,Junior Developer,,New York,118079.45
+40.0,Male,High School,Project Manager,12.6,Austin,71562.33
+46.0,Male,Master's,Graphic Designer,12.2,Los Angeles,102014.75
+21.0,Male,High School,Research Scientist,0.0,Austin,48998.3
+45.0,Male,High School,Senior Software Engineer,12.1,Atlanta,100906.12
+30.0,Female,High School,Business Analyst,9.0,Boston,62575.61
+23.0,Male,High School,Marketing Manager,0.0,New York,77324.62
+41.0,Female,Bachelor's,Software Engineer,6.8,New York,100493.48
+47.0,Female,Master's,Product Manager,,Chicago,125014.3
+36.0,Female,Master's,HR Manager,9.6,San Francisco,130883.97
+23.0,Male,Bachelor's,Customer Service Representative,2.0,Seattle,56500.26
+41.0,Female,Bachelor's,Data Analyst,18.8,San Francisco,117896.29
+48.0,Female,Bachelor's,Customer Service Representative,11.5,Seattle,76033.45
+22.0,Female,Bachelor's,Customer Service Representative,0.0,Chicago,37247.95
+57.0,Male,Bachelor's,Operations Manager,24.2,Chicago,115377.53
+39.0,Female,Master's,Project Manager,12.4,Denver,122623.11
+38.0,Female,Bachelor's,Business Analyst,17.0,Atlanta,95249.12
+37.0,Female,PhD,Marketing Manager,8.1,Denver,126691.81
+44.0,Female,Master's,Data Scientist,17.0,New York,156923.79
+47.0,Male,High School,Account Manager,7.0,New York,58855.13
+51.0,Male,Master's,Customer Service Representative,20.1,Boston,96472.83
+62.0,Male,PhD,HR Manager,24.3,Chicago,175120.48
+,Male,Master's,Software Engineer,8.1,Boston,119127.87
+31.0,Male,High School,Account Manager,9.1,Los Angeles,59919.1
+51.0,Female,Master's,HR Manager,15.7,Atlanta,125550.27
+40.0,Male,Master's,Account Manager,16.7,San Francisco,133773.27
+42.0,Male,PhD,Marketing Manager,5.3,San Francisco,142316.88
+30.0,Male,Bachelor's,Junior Developer,0.0,Atlanta,45486.0
+35.0,Female,Master's,Data Scientist,7.1,Denver,117701.1
+41.0,Male,Bachelor's,Business Analyst,,Denver,100930.44
+34.0,Male,Bachelor's,IT Support Specialist,4.1,Chicago,50277.22
+41.0,Male,Bachelor's,Sales Manager,11.2,San Francisco,112921.11
+36.0,Female,Bachelor's,HR Manager,5.6,Seattle,77071.24
+40.0,Male,High School,Business Analyst,6.9,Boston,55931.07
+50.0,Female,Bachelor's,Account Manager,14.9,Remote,78351.91
+27.0,Female,Master's,Business Analyst,6.0,Denver,85540.31
+40.0,Male,Bachelor's,Research Scientist,16.9,San Francisco,142417.79
+33.0,Male,Master's,Marketing Manager,0.0,New York,94458.36
+46.0,Male,Bachelor's,Research Scientist,14.7,Austin,104404.77
+31.0,Male,High School,Marketing Manager,3.0,Los Angeles,67777.56
+21.0,Male,High School,Data Analyst,0.0,Los Angeles,42457.59
+29.0,Female,Master's,Sales Manager,,Atlanta,79449.87
+52.0,Male,Bachelor's,Software Engineer,15.3,Los Angeles,107412.0
+32.0,Female,High School,Customer Service Representative,4.4,Boston,31916.48
+54.0,,Master's,Marketing Manager,28.3,Denver,153717.1
+36.0,Female,Bachelor's,Graphic Designer,3.8,New York,74127.04
+44.0,Female,Master's,Marketing Manager,20.9,Denver,135487.98
+21.0,Male,Bachelor's,Financial Analyst,0.0,Los Angeles,81086.95
+54.0,Male,High School,Project Manager,13.7,Remote,61965.72
+50.0,Male,Master's,IT Support Specialist,14.7,Los Angeles,106114.62
+34.0,Male,Bachelor's,Project Manager,6.8,Remote,79172.4
+21.0,Male,Bachelor's,Customer Service Representative,0.0,Boston,41716.75
+46.0,Male,Bachelor's,IT Support Specialist,15.1,New York,94231.13
+36.0,Male,Master's,IT Support Specialist,11.5,Seattle,110410.35
+33.0,Male,Master's,Operations Manager,4.7,Chicago,92466.96
+41.0,Male,PhD,Data Analyst,10.0,New York,123489.34
+30.0,Female,High School,Data Scientist,0.0,Los Angeles,70793.37
+35.0,Male,Bachelor's,Customer Service Representative,3.6,Chicago,53855.04
+28.0,Male,Master's,Sales Manager,6.1,Austin,96778.12
+27.0,Male,High School,Data Analyst,3.3,Remote,35324.65
+44.0,Male,Bachelor's,Junior Developer,11.2,Remote,70288.11
+23.0,Male,Bachelor's,Sales Associate,0.0,Austin,46695.52
+26.0,Female,PhD,Director,0.0,San Francisco,165292.43
+40.0,Male,High School,Account Manager,11.1,San Francisco,86382.05
+21.0,Male,High School,Operations Manager,0.0,Austin,40840.99
+47.0,Female,High School,Financial Analyst,21.5,San Francisco,96869.7
+38.0,Female,Master's,Financial Analyst,8.2,Los Angeles,118031.01
+28.0,Female,Bachelor's,Business Analyst,7.0,Denver,78355.27
+44.0,Female,Bachelor's,Data Scientist,15.6,Atlanta,99058.33
+32.0,Male,High School,Junior Developer,0.9,Denver,43633.97
+40.0,Male,Bachelor's,Data Analyst,15.9,Denver,84829.17
+38.0,Male,High School,Marketing Manager,4.1,New York,72261.62
+46.0,Female,PhD,IT Support Specialist,13.8,New York,134562.52
+36.0,Female,Bachelor's,HR Manager,5.3,Remote,70197.33
+21.0,Male,Master's,Operations Manager,0.0,San Francisco,107155.02
+29.0,Male,Bachelor's,Business Analyst,0.1,Chicago,65485.68
+48.0,Female,Master's,Research Scientist,14.3,San Francisco,150483.39
+32.0,Male,High School,HR Manager,7.1,Seattle,66171.6
+33.0,Male,Master's,Data Analyst,7.6,Chicago,92872.55
+26.0,Female,Bachelor's,IT Support Specialist,0.0,Denver,45174.66
+36.0,Female,Bachelor's,Director,13.1,Remote,139878.63
+34.0,Female,High School,IT Support Specialist,4.1,Denver,34782.43
+56.0,Male,Bachelor's,Research Scientist,17.9,Los Angeles,131112.15
+39.0,Male,Master's,Sales Associate,11.4,Boston,102747.71
+47.0,Female,Bachelor's,Financial Analyst,12.9,New York,105276.51
+38.0,Male,Bachelor's,Sales Associate,10.7,Boston,62848.2
+28.0,Male,PhD,Senior Software Engineer,0.0,Remote,114838.96
+24.0,Female,Bachelor's,Data Scientist,0.0,Seattle,90720.48
+27.0,,High School,Graphic Designer,6.0,Boston,38648.45
+35.0,Male,Bachelor's,Sales Associate,7.3,Atlanta,58683.36
+26.0,Female,PhD,Data Scientist,0.0,Seattle,131469.68
+21.0,Male,Bachelor's,Director,0.0,Boston,113653.63
+38.0,Male,High School,IT Support Specialist,8.1,Chicago,39166.09
+22.0,Female,Bachelor's,Data Analyst,1.0,Denver,59215.35
+31.0,,Bachelor's,IT Support Specialist,10.0,Denver,66419.52
+30.0,Male,Master's,Data Scientist,6.5,Seattle,120166.99
+49.0,Female,Master's,Business Analyst,21.1,Denver,120575.21
+29.0,Male,High School,Software Engineer,4.9,Denver,63863.05
+36.0,Female,Bachelor's,HR Manager,9.9,Chicago,84826.1
+49.0,Male,PhD,Data Analyst,22.0,San Francisco,182737.28
+37.0,Male,Bachelor's,Data Analyst,12.6,San Francisco,109778.36
+50.0,Female,Bachelor's,Business Analyst,17.1,Remote,92925.05
+41.0,Male,PhD,Financial Analyst,0.0,Atlanta,96865.18
+30.0,Male,Bachelor's,Data Scientist,9.0,Denver,111357.52
+42.0,Male,Master's,Account Manager,18.0,Remote,116141.64
+24.0,Male,High School,IT Support Specialist,0.6,New York,52386.15
+35.0,Male,High School,Sales Manager,7.3,San Francisco,74221.73
+49.0,Female,Master's,Graphic Designer,13.8,Remote,96542.88
+,Male,PhD,Graphic Designer,1.0,Los Angeles,94891.89
+41.0,Female,Bachelor's,Senior Software Engineer,9.8,Boston,125803.33
+,Male,PhD,HR Manager,24.0,Atlanta,172000.94
+39.0,Female,Bachelor's,Product Manager,13.2,Boston,111344.28
+44.0,Female,Bachelor's,Data Scientist,12.7,Chicago,105420.95
+,Female,Master's,Junior Developer,6.1,San Francisco,94855.53
+27.0,Male,Master's,Data Analyst,0.0,Atlanta,69979.01
+41.0,Male,Bachelor's,Director,12.3,Austin,139526.81
+34.0,Female,Master's,Marketing Manager,0.0,Chicago,90273.19
+40.0,Female,PhD,Business Analyst,8.4,New York,131872.49
+47.0,Male,Master's,Account Manager,12.1,Atlanta,99731.25
+44.0,Female,Bachelor's,Junior Developer,13.1,Chicago,70354.76
+43.0,Female,PhD,Research Scientist,8.3,New York,148505.59
+62.0,Female,Master's,Graphic Designer,17.0,Austin,110099.05
+39.0,Male,Bachelor's,HR Manager,11.7,Austin,84831.17
+31.0,Male,Master's,Software Engineer,5.3,Chicago,106510.14
+37.0,Female,Master's,Data Analyst,8.0,San Francisco,105243.23
+40.0,Male,Bachelor's,HR Manager,15.7,Boston,99450.49
+40.0,Female,PhD,Senior Software Engineer,9.8,Austin,157042.37
+24.0,Male,Master's,Operations Manager,0.0,San Francisco,99339.8
+38.0,Female,Bachelor's,Graphic Designer,12.5,New York,96607.76
+42.0,Female,High School,Sales Associate,15.4,Chicago,60340.6
+43.0,Female,Bachelor's,Sales Manager,14.2,Chicago,87685.12
+51.0,Female,Master's,Project Manager,19.9,Denver,134109.95
+35.0,Female,Bachelor's,IT Support Specialist,8.1,Los Angeles,66842.38
+28.0,Male,Bachelor's,Project Manager,5.7,New York,90471.12
+36.0,Female,Master's,Junior Developer,7.2,Chicago,81256.62
+29.0,Male,Master's,Financial Analyst,3.3,Atlanta,93870.25
+50.0,Male,Bachelor's,Senior Software Engineer,16.2,Austin,127042.78
+21.0,Female,Bachelor's,Customer Service Representative,0.0,Austin,39087.17
+42.0,Male,High School,Product Manager,10.0,New York,96104.35
+40.0,Female,PhD,Product Manager,8.2,Seattle,151083.68
+52.0,Male,Master's,Product Manager,7.2,Boston,120540.44
+22.0,Male,Bachelor's,Director,0.0,Remote,117744.54
+33.0,Female,Master's,Customer Service Representative,5.1,Chicago,68558.72
+37.0,Male,Bachelor's,Sales Associate,2.4,Remote,43931.76
+42.0,Male,Bachelor's,Operations Manager,6.3,Boston,90027.15
+24.0,Female,High School,Senior Software Engineer,0.4,Boston,90237.79
+53.0,Female,Master's,Account Manager,21.6,Seattle,155762.76
+25.0,Male,Bachelor's,Software Engineer,0.0,Austin,66650.31
+33.0,Male,Bachelor's,Data Analyst,8.3,Boston,79384.73
+29.0,Female,Bachelor's,Sales Associate,8.0,Austin,67120.55
+36.0,Female,Bachelor's,Data Scientist,5.4,Denver,79476.29
+26.0,Male,Bachelor's,Research Scientist,5.0,Denver,94243.38
+45.0,Male,Bachelor's,HR Manager,9.6,New York,93700.12
+43.0,Male,Bachelor's,Junior Developer,9.9,Los Angeles,66685.23
+21.0,Female,Bachelor's,Sales Manager,0.0,Denver,64159.51
+44.0,Female,Bachelor's,Senior Software Engineer,18.9,Atlanta,123682.25
+32.0,Female,Bachelor's,Customer Service Representative,10.2,Chicago,50573.82
+22.0,Female,Bachelor's,Research Scientist,1.0,Remote,67318.53
+30.0,Female,Master's,Sales Associate,2.4,New York,91677.89
+47.0,Male,High School,IT Support Specialist,14.7,Austin,49897.05
+36.0,Female,Master's,Account Manager,4.9,San Francisco,112301.33
+52.0,Female,High School,Data Analyst,15.6,Los Angeles,69098.4
+32.0,Female,High School,Operations Manager,11.0,New York,88561.71
+21.0,Male,Master's,Financial Analyst,0.0,New York,95502.68
+37.0,Female,Bachelor's,Operations Manager,16.0,New York,110965.68
+21.0,Male,Master's,Project Manager,0.0,Los Angeles,81546.28
+26.0,Female,Master's,IT Support Specialist,0.0,Remote,39722.99
+45.0,Male,Master's,Customer Service Representative,12.2,Los Angeles,86741.49
+21.0,Male,Bachelor's,Data Analyst,0.0,Atlanta,51949.32
+43.0,Female,Bachelor's,Data Scientist,19.4,New York,136996.27
+49.0,Female,Bachelor's,Graphic Designer,12.4,San Francisco,84662.69
+47.0,Male,High School,Account Manager,15.5,Austin,67957.14
+21.0,Female,Bachelor's,Account Manager,0.0,San Francisco,82471.83
+42.0,Male,PhD,Research Scientist,14.2,Atlanta,149737.17
+42.0,Male,Bachelor's,Business Analyst,13.3,Chicago,104789.07
+30.0,Female,High School,Business Analyst,8.6,Los Angeles,64522.71
+25.0,,PhD,Junior Developer,3.6,Los Angeles,94902.73
+33.0,Male,PhD,Senior Software Engineer,5.6,Seattle,159857.87
+46.0,Female,PhD,Marketing Manager,12.2,San Francisco,164791.79
+47.0,Female,Master's,Data Analyst,8.2,Los Angeles,104749.13
+37.0,Male,PhD,Business Analyst,10.3,Chicago,129677.39
+50.0,Female,PhD,Financial Analyst,4.5,Seattle,120962.09
+38.0,Female,Bachelor's,Data Scientist,14.3,Remote,97535.06
+52.0,Female,PhD,Sales Associate,14.9,San Francisco,131962.69
+44.0,Female,PhD,Account Manager,11.9,Atlanta,134985.18
+35.0,Female,High School,Data Analyst,5.7,San Francisco,76148.02
+44.0,Female,PhD,Project Manager,12.6,Remote,147438.39
+50.0,Female,Master's,Data Analyst,21.4,New York,158015.64
+47.0,,Bachelor's,Senior Software Engineer,14.4,San Francisco,144583.18
+39.0,Female,Bachelor's,Product Manager,6.3,Seattle,110756.9
+45.0,Female,Master's,Product Manager,12.1,Atlanta,115647.22
+37.0,Male,Bachelor's,Marketing Manager,7.0,Los Angeles,80216.1
+31.0,Female,Bachelor's,Operations Manager,6.9,Austin,79625.83
+61.0,Male,High School,Financial Analyst,28.1,Atlanta,82780.68
+43.0,Female,High School,Senior Software Engineer,11.7,Los Angeles,100694.74
+38.0,Male,Master's,HR Manager,16.5,Boston,134677.76
+29.0,Female,PhD,Junior Developer,6.2,Chicago,92501.64
+23.0,Female,Bachelor's,Sales Associate,0.0,San Francisco,70750.26
+21.0,Female,Bachelor's,Marketing Manager,0.0,Remote,51257.17
+55.0,Male,High School,Sales Associate,20.5,Remote,53387.51
+45.0,Female,Master's,Sales Manager,10.0,Denver,107970.21
+31.0,Male,Bachelor's,Director,5.4,Remote,107909.79
+26.0,Female,High School,Director,4.0,San Francisco,113511.13
+31.0,Female,Master's,Product Manager,10.0,San Francisco,140729.6
+21.0,Male,Bachelor's,Sales Associate,0.0,San Francisco,64407.48
+46.0,Male,Bachelor's,Account Manager,5.8,Austin,74441.75
+51.0,Male,PhD,IT Support Specialist,15.2,Boston,116621.94
+36.0,Female,Master's,Sales Manager,6.6,Seattle,116351.12
+21.0,Male,High School,HR Manager,0.0,Seattle,65888.88
+58.0,Female,Master's,Product Manager,16.5,Denver,128775.91
+53.0,Male,PhD,Sales Associate,16.6,San Francisco,147830.25
+35.0,Male,Bachelor's,Research Scientist,0.6,Remote,74567.15
+22.0,Female,High School,Account Manager,0.0,Denver,37744.52
+30.0,Male,Master's,Project Manager,8.0,Atlanta,101925.14
+39.0,Female,PhD,Junior Developer,6.6,Seattle,107651.12
+39.0,Male,PhD,Research Scientist,12.8,Seattle,160830.77
+41.0,Female,,Junior Developer,,Atlanta,88516.54
+21.0,Male,Bachelor's,Project Manager,0.0,Austin,68081.84
+30.0,Male,Master's,Director,4.5,San Francisco,162356.59
+33.0,Male,Bachelor's,Director,1.1,Atlanta,108266.97
+41.0,Female,Master's,HR Manager,12.8,Austin,121746.61
+37.0,Female,Master's,HR Manager,13.3,Seattle,116049.42
+51.0,Male,Bachelor's,Senior Software Engineer,18.5,Austin,129547.19
+35.0,Female,Bachelor's,Marketing Manager,7.5,San Francisco,97681.57
+65.0,Female,Bachelor's,Sales Manager,17.1,Austin,104374.42
+45.0,Male,Master's,Sales Manager,17.9,Los Angeles,140332.31
+53.0,Female,Master's,IT Support Specialist,19.1,Remote,99675.38
+37.0,Male,Master's,Product Manager,9.9,Los Angeles,118148.68
+38.0,Female,Bachelor's,Director,8.5,New York,127365.35
+23.0,Female,High School,Graphic Designer,1.3,Remote,36837.23
+31.0,Female,Bachelor's,Project Manager,3.5,Denver,73036.22
+22.0,Female,Bachelor's,Financial Analyst,1.0,Los Angeles,76610.78
+61.0,Male,PhD,Customer Service Representative,17.6,Boston,140708.34
+40.0,Male,High School,Data Scientist,10.5,Austin,76507.92
+22.0,Female,Bachelor's,Sales Associate,1.0,Austin,37409.69
+41.0,Female,Bachelor's,Account Manager,8.1,New York,83005.98
+32.0,Male,Master's,Data Scientist,11.0,Seattle,132370.1
+36.0,Male,High School,IT Support Specialist,11.7,New York,52944.83
+32.0,Female,Master's,Business Analyst,1.1,Seattle,106107.64
+40.0,Female,Bachelor's,HR Manager,5.9,Denver,75238.52
+40.0,Male,Master's,HR Manager,18.1,New York,146209.53
+32.0,Female,Master's,Research Scientist,0.0,Remote,85320.99
+39.0,Female,PhD,Sales Associate,7.6,Atlanta,90529.71
+24.0,Male,,Data Scientist,0.0,Los Angeles,78764.13
+28.0,Male,High School,Senior Software Engineer,1.7,New York,94834.77
+35.0,Female,Master's,HR Manager,1.9,Seattle,100427.74
+36.0,Female,Bachelor's,Marketing Manager,5.0,Seattle,97364.36
+24.0,Male,Master's,Customer Service Representative,3.0,Atlanta,56338.02
+33.0,Male,Master's,Graphic Designer,10.2,Boston,94581.77
+48.0,Female,Bachelor's,Marketing Manager,17.4,Boston,124145.87
+38.0,Female,Bachelor's,Graphic Designer,4.6,Remote,45317.07
+36.0,Female,Bachelor's,Research Scientist,3.4,Austin,78633.48
+33.0,Female,Master's,Financial Analyst,6.9,Remote,97657.0
+24.0,Male,PhD,Customer Service Representative,2.5,Boston,95524.13
+38.0,Female,High School,Account Manager,0.0,Chicago,55277.3
+22.0,Male,PhD,HR Manager,,Austin,89149.99
+40.0,Female,High School,Director,9.2,Denver,105916.17
+32.0,Male,High School,HR Manager,4.3,Boston,64674.73
+33.0,Male,Master's,Project Manager,7.0,Austin,103196.62
+47.0,Female,Master's,Junior Developer,6.5,Austin,81542.82
+39.0,Female,Bachelor's,Research Scientist,8.1,New York,110913.89
+21.0,Female,Master's,Sales Associate,0.0,Austin,64867.35
+44.0,Male,Master's,Research Scientist,16.1,Seattle,144501.27
+38.0,Female,,Customer Service Representative,4.9,Remote,64211.97
+40.0,Female,Bachelor's,Director,9.4,Atlanta,123216.08
+46.0,Male,High School,Research Scientist,7.8,Seattle,72693.63
+26.0,Female,Master's,Sales Associate,1.2,San Francisco,84507.69
+44.0,Male,Bachelor's,Account Manager,14.6,Remote,83648.09
+41.0,Male,Master's,HR Manager,5.4,Boston,108515.08
+40.0,Male,Master's,Business Analyst,11.1,San Francisco,129931.14
+40.0,Female,Bachelor's,Graphic Designer,13.9,San Francisco,90023.81
+21.0,Female,PhD,Account Manager,0.0,Seattle,113551.97
+45.0,Male,,Director,18.9,Chicago,138642.64
+27.0,,Master's,Business Analyst,4.1,Atlanta,88917.15
+30.0,Female,High School,Project Manager,0.4,San Francisco,71070.44
+42.0,Male,Bachelor's,Data Analyst,,Atlanta,73252.57
+44.0,Male,Bachelor's,Account Manager,12.1,Remote,79604.22
+33.0,Female,Master's,Project Manager,8.3,Los Angeles,115638.92
+21.0,Female,High School,Customer Service Representative,0.0,Seattle,42152.09
+23.0,Male,High School,Director,0.0,Denver,83470.97
+37.0,Female,Bachelor's,Research Scientist,4.0,San Francisco,109597.35
+21.0,Female,High School,Operations Manager,0.0,Los Angeles,65761.06
+54.0,Male,Bachelor's,IT Support Specialist,18.0,Denver,77990.29
+38.0,Male,PhD,Customer Service Representative,4.4,Los Angeles,89361.94
+30.0,Male,High School,Data Scientist,1.3,Seattle,79158.47
+21.0,Male,Bachelor's,Director,0.0,Remote,96852.83
+25.0,Male,Bachelor's,Data Analyst,1.1,Chicago,58467.06
+35.0,Female,High School,Data Analyst,4.8,New York,67150.33
+33.0,Female,High School,Business Analyst,9.8,Austin,62348.14
+24.0,Male,Bachelor's,Senior Software Engineer,3.0,San Francisco,119603.64
+42.0,Female,Bachelor's,Junior Developer,12.2,New York,85107.62
+35.0,Male,Bachelor's,Senior Software Engineer,8.5,Chicago,107012.31
+41.0,,High School,Software Engineer,13.2,Los Angeles,84007.21
+41.0,Female,Bachelor's,Marketing Manager,10.6,Los Angeles,108544.92
+31.0,Female,High School,Data Analyst,7.2,Denver,60816.07
+26.0,Male,High School,Business Analyst,5.0,Chicago,48412.75
+,Female,PhD,Account Manager,12.6,Los Angeles,138891.5
+43.0,Male,High School,Director,14.0,Remote,103860.08
+37.0,Male,Bachelor's,HR Manager,3.5,San Francisco,73738.67
+33.0,Male,Bachelor's,Project Manager,11.8,San Francisco,116736.91
+39.0,Female,High School,Graphic Designer,12.8,Seattle,57957.81
+47.0,Male,Bachelor's,Sales Associate,16.9,Denver,74909.36
+28.0,Male,Bachelor's,Project Manager,6.5,New York,89912.26
+25.0,Female,High School,Research Scientist,4.0,Austin,70798.71
+33.0,Male,Master's,Director,0.0,Seattle,128317.97
+40.0,Female,Bachelor's,Junior Developer,12.0,Remote,64162.77
+37.0,Female,,Marketing Manager,10.9,Austin,81448.52
+35.0,Male,Bachelor's,Marketing Manager,7.9,San Francisco,102383.15
+21.0,Male,Bachelor's,Data Scientist,0.0,Boston,80077.95
+48.0,Male,Master's,Software Engineer,18.0,Remote,125992.14
+42.0,Female,Bachelor's,Junior Developer,12.3,Seattle,88742.58
+45.0,Female,Master's,Data Scientist,16.7,Los Angeles,134571.14
+40.0,Male,PhD,Graphic Designer,3.6,San Francisco,110481.94
+52.0,Male,Master's,Sales Associate,12.9,New York,109808.32
+42.0,Male,Bachelor's,Marketing Manager,15.2,Los Angeles,103364.74
+39.0,Male,Master's,Account Manager,10.8,Seattle,119410.87
+29.0,Male,Bachelor's,Business Analyst,4.7,New York,99109.15
+42.0,Male,Bachelor's,Research Scientist,15.8,Austin,124207.07
+41.0,Male,Master's,Data Analyst,7.8,Los Angeles,106357.82
+50.0,Female,Master's,Product Manager,15.6,Los Angeles,159783.91
+30.0,Male,Bachelor's,Operations Manager,2.2,San Francisco,87433.74
+37.0,Female,Bachelor's,Sales Manager,11.7,San Francisco,102116.57
+44.0,Male,Master's,Operations Manager,14.0,Chicago,114936.83
+28.0,,High School,Marketing Manager,7.0,Seattle,77429.96
+65.0,Female,High School,Account Manager,17.4,Chicago,67255.08
+35.0,Male,Bachelor's,Operations Manager,2.8,Atlanta,69190.19
+43.0,Male,Master's,Graphic Designer,14.5,San Francisco,123106.59
+27.0,Male,High School,HR Manager,0.0,Atlanta,45269.17
+58.0,Male,Bachelor's,Marketing Manager,22.5,Atlanta,105255.13
+39.0,Male,Bachelor's,Graphic Designer,2.5,Austin,54334.43
+29.0,Female,Bachelor's,Senior Software Engineer,2.2,New York,115248.75
+35.0,Male,PhD,Account Manager,5.9,Denver,114955.07
+45.0,Female,Bachelor's,Financial Analyst,17.1,New York,108711.5
+38.0,Male,High School,Data Scientist,9.0,Denver,68686.63
+30.0,Female,Bachelor's,Junior Developer,5.3,Remote,52535.79
+43.0,Female,Bachelor's,Senior Software Engineer,20.8,Boston,146590.49
+25.0,Male,Bachelor's,Project Manager,4.0,Boston,84165.41
+28.0,Male,Master's,Product Manager,2.6,Los Angeles,104924.04
+47.0,Female,Bachelor's,Software Engineer,16.3,New York,116762.26
+49.0,Female,High School,Sales Associate,11.3,Denver,49870.87
+48.0,Female,Bachelor's,Business Analyst,10.1,Remote,82717.52
+21.0,Male,Master's,Sales Manager,0.0,Chicago,80830.12
+45.0,Male,Bachelor's,Senior Software Engineer,15.6,Atlanta,120027.11
+27.0,Male,High School,Director,5.8,New York,118881.2
+25.0,Male,PhD,Operations Manager,4.0,Seattle,129811.48
+49.0,Male,Bachelor's,Director,16.5,Seattle,157828.06
+60.0,Female,Master's,Data Scientist,,Chicago,169628.88
+33.0,Male,Master's,Software Engineer,11.3,New York,147815.1
+32.0,Female,Master's,Data Scientist,4.8,Remote,84903.95
+41.0,Female,Bachelor's,IT Support Specialist,9.0,Seattle,75980.25
+40.0,Female,PhD,Data Scientist,13.8,Austin,156115.64
+41.0,Male,Master's,Junior Developer,9.8,Seattle,112886.32
+42.0,Female,Bachelor's,Sales Associate,16.6,Denver,64559.67
+21.0,Male,,Operations Manager,0.0,San Francisco,76998.04
+22.0,Female,Master's,Software Engineer,1.0,San Francisco,111107.97
+46.0,Male,PhD,Data Analyst,17.9,New York,170366.77
+21.0,Male,Master's,Operations Manager,0.0,San Francisco,99941.8
+53.0,Female,Bachelor's,Customer Service Representative,20.6,Remote,78989.61
+39.0,Male,Master's,Project Manager,5.2,Remote,93463.94
+,Female,,Account Manager,23.9,Los Angeles,115076.41
+63.0,,Bachelor's,Project Manager,29.0,Los Angeles,130600.8
+26.0,Female,PhD,Senior Software Engineer,1.8,Denver,140137.47
+21.0,Male,PhD,Graphic Designer,0.0,Atlanta,78479.77
+45.0,Female,Master's,Financial Analyst,7.1,Chicago,103564.23
+21.0,Male,PhD,HR Manager,0.0,Boston,91234.93
+21.0,Female,High School,Sales Associate,0.0,Seattle,35040.96
+36.0,Female,High School,Operations Manager,5.7,Chicago,66861.15
+31.0,Female,Master's,Senior Software Engineer,2.0,San Francisco,134944.4
+21.0,Male,Bachelor's,Data Scientist,0.0,Chicago,70783.33
+49.0,Female,Master's,Research Scientist,20.8,Remote,136287.49
+21.0,Male,Bachelor's,Business Analyst,0.0,Austin,59385.62
+49.0,Male,High School,Account Manager,23.8,Los Angeles,86218.98
+22.0,Male,Bachelor's,Junior Developer,1.0,Atlanta,44644.29
+28.0,Male,Master's,Product Manager,5.0,New York,123221.58
+43.0,Female,Master's,Project Manager,8.2,Denver,120941.76
+33.0,Female,High School,Financial Analyst,9.7,Atlanta,57369.48
+43.0,Male,High School,Business Analyst,,Denver,65295.63
+21.0,Female,Bachelor's,Director,,Austin,102120.99
+26.0,Female,High School,Project Manager,0.0,Chicago,63935.03
+38.0,Male,Bachelor's,HR Manager,7.5,San Francisco,99716.48
+28.0,Female,PhD,Customer Service Representative,4.0,Boston,95972.9
+56.0,Female,High School,Product Manager,,Denver,87765.05
+36.0,Male,High School,HR Manager,8.7,Remote,54166.5
+,Male,PhD,Account Manager,8.0,Austin,125343.96
+36.0,Male,Bachelor's,Marketing Manager,0.0,Remote,63318.46
+48.0,Female,Bachelor's,Junior Developer,16.8,Boston,94796.54
+41.0,Male,Master's,Sales Manager,14.6,Seattle,140200.61
+46.0,Male,Master's,Graphic Designer,14.2,Remote,94985.9
+43.0,Male,Master's,Graphic Designer,5.3,Atlanta,74497.22
+56.0,Female,Master's,Sales Manager,22.0,New York,149971.49
+32.0,Male,Bachelor's,HR Manager,10.6,Atlanta,83133.09
+48.0,Female,Master's,Financial Analyst,11.4,New York,127326.64
+42.0,Female,PhD,Graphic Designer,13.2,Remote,115646.65
+34.0,Male,High School,Junior Developer,13.0,Austin,54198.73
+36.0,Female,Bachelor's,Financial Analyst,6.5,Chicago,76369.77
+46.0,Female,Bachelor's,Operations Manager,19.5,Atlanta,106103.74
+51.0,,Master's,Account Manager,23.2,Los Angeles,144528.07
+21.0,Female,Bachelor's,Graphic Designer,0.0,Austin,52839.62
+39.0,Female,Bachelor's,Business Analyst,9.6,San Francisco,95377.35
+51.0,Male,Bachelor's,Director,12.5,Denver,134728.24
+,Female,Bachelor's,IT Support Specialist,15.5,Chicago,81406.48
+29.0,Female,Master's,Product Manager,8.0,Seattle,133077.98
+29.0,Male,Master's,Sales Manager,8.0,Seattle,119029.74
+52.0,Female,Bachelor's,Account Manager,16.7,Chicago,104143.73
+28.0,Female,Bachelor's,Data Scientist,3.1,Denver,75501.79
+31.0,Female,Bachelor's,Financial Analyst,3.9,Seattle,79116.12
+47.0,Female,Bachelor's,Director,11.2,New York,143421.45
+40.0,Male,Master's,Graphic Designer,8.2,Austin,94438.44
+29.0,Male,Bachelor's,Business Analyst,4.2,San Francisco,89485.89
+49.0,Female,Master's,Business Analyst,20.2,New York,143236.28
+32.0,Male,Master's,Sales Manager,8.4,Denver,96098.98
+36.0,Female,Bachelor's,Sales Manager,14.8,San Francisco,116827.23
+,Male,PhD,IT Support Specialist,0.0,Los Angeles,84875.76
+40.0,Male,PhD,Business Analyst,6.6,Remote,111158.89
+30.0,Male,Bachelor's,Director,3.6,Atlanta,115272.78
+35.0,Female,Bachelor's,Director,7.6,Austin,130106.38
+33.0,Female,,Product Manager,8.5,New York,122244.68
+21.0,Female,Bachelor's,Business Analyst,0.0,San Francisco,79670.42
+31.0,Female,Bachelor's,Product Manager,0.0,Denver,78561.37
+21.0,Male,Bachelor's,Data Analyst,0.0,New York,72620.08
+51.0,Female,Master's,Graphic Designer,20.3,Remote,113139.38
+46.0,Female,PhD,Software Engineer,9.3,New York,155946.86
+36.0,Female,Bachelor's,Research Scientist,9.9,Austin,97109.88
+45.0,Male,Master's,Customer Service Representative,12.9,Chicago,88691.58
+39.0,Male,Bachelor's,Data Analyst,10.5,Denver,81104.2
+21.0,Male,Bachelor's,Project Manager,0.0,Boston,73775.74
+36.0,Female,PhD,Data Scientist,15.0,Seattle,162688.39
+33.0,Female,Master's,IT Support Specialist,6.5,Chicago,74233.46
+62.0,Female,Master's,Data Scientist,28.1,Seattle,175070.86
+48.0,Female,Bachelor's,Senior Software Engineer,19.5,San Francisco,150130.81
+45.0,Male,High School,Software Engineer,14.8,Seattle,91403.25
+26.0,Female,Bachelor's,Senior Software Engineer,5.0,Austin,108000.89
+31.0,Female,High School,Director,0.0,New York,106747.98
+,Male,Master's,IT Support Specialist,0.0,Seattle,77619.38
+43.0,Female,Master's,Customer Service Representative,11.1,Seattle,110668.44
+33.0,Male,High School,Business Analyst,8.5,Seattle,79927.04
+43.0,Female,Bachelor's,Data Scientist,16.4,New York,128504.81
+32.0,Female,Bachelor's,HR Manager,4.3,Chicago,72378.78
+32.0,Male,PhD,Director,10.5,New York,192911.98
+43.0,Male,Bachelor's,HR Manager,9.5,Seattle,99768.83
+28.0,Male,Bachelor's,Software Engineer,0.4,Denver,61346.61
+24.0,Female,High School,Data Analyst,0.0,Austin,42476.95
+38.0,Male,Bachelor's,Data Scientist,7.2,Chicago,100637.23
+22.0,Female,Bachelor's,Financial Analyst,1.0,Los Angeles,65912.79
+36.0,Female,High School,Customer Service Representative,15.0,Boston,67963.56
+47.0,Female,High School,IT Support Specialist,18.2,Boston,67439.61
+43.0,Male,Bachelor's,Research Scientist,13.0,Seattle,114292.76
+43.0,Male,PhD,Sales Manager,15.0,Remote,131228.42
+31.0,Male,High School,Financial Analyst,8.6,Chicago,71625.51
+40.0,Male,Master's,Senior Software Engineer,7.2,Los Angeles,133353.9
+34.0,Male,High School,Operations Manager,3.6,Austin,52339.59
+27.0,Female,Bachelor's,Operations Manager,0.0,Austin,75175.88
+43.0,Female,Master's,Sales Associate,4.7,Denver,60849.72
+21.0,Male,High School,Data Analyst,0.0,Atlanta,37012.28
+41.0,Female,Bachelor's,Senior Software Engineer,14.6,New York,137648.49
+43.0,Female,High School,Financial Analyst,12.7,Los Angeles,71785.34
+42.0,Male,Bachelor's,Project Manager,11.2,Boston,95540.96
+25.0,Female,PhD,Data Analyst,4.0,Austin,99223.2
+32.0,Female,Bachelor's,Product Manager,0.4,Austin,79386.61
+49.0,Male,High School,HR Manager,15.5,Atlanta,70963.26
+56.0,Male,Master's,Customer Service Representative,19.2,Atlanta,113587.59
+56.0,Male,Bachelor's,Financial Analyst,15.2,New York,105588.03
+25.0,Female,High School,Junior Developer,0.0,San Francisco,56804.31
+24.0,Male,Bachelor's,Data Analyst,0.4,Austin,65058.05
+48.0,Male,High School,Project Manager,11.8,Austin,80049.76
+30.0,Female,Master's,Sales Associate,9.0,New York,98546.69
+,Male,Bachelor's,Graphic Designer,9.2,Remote,65676.17
+26.0,Male,PhD,HR Manager,,Austin,109531.28
+21.0,Male,Master's,Sales Associate,0.0,Seattle,73106.2
+25.0,Male,Master's,Financial Analyst,2.1,Denver,80042.36
+22.0,Male,Bachelor's,Director,1.0,Denver,110905.15
+37.0,Female,Bachelor's,Project Manager,8.7,Los Angeles,93984.74
+30.0,Female,Bachelor's,Account Manager,4.4,Denver,68701.62
+36.0,,High School,Customer Service Representative,9.3,Boston,42337.56
+53.0,Male,High School,Operations Manager,18.5,Atlanta,84664.41
+61.0,Male,Master's,Account Manager,20.1,Seattle,132999.68
+46.0,Female,Master's,Research Scientist,12.4,New York,151036.76
+35.0,Female,Master's,Software Engineer,5.8,Boston,117441.96
+45.0,Male,Bachelor's,Graphic Designer,22.6,Chicago,98171.99
+32.0,Female,Bachelor's,Director,3.5,Remote,112621.84
+32.0,Male,Master's,Research Scientist,0.0,San Francisco,114411.57
+36.0,Male,High School,Account Manager,8.3,Los Angeles,56470.42
+40.0,Male,PhD,Graphic Designer,10.1,Remote,108452.77
+42.0,Male,Bachelor's,Graphic Designer,12.1,Austin,69400.89
+50.0,Male,Master's,Product Manager,15.5,Denver,137505.1
+42.0,Female,Bachelor's,Junior Developer,13.6,Chicago,85101.36
+28.0,Male,Bachelor's,Data Analyst,0.2,Boston,59590.04
+33.0,Female,Bachelor's,Graphic Designer,3.9,New York,78260.71
+62.0,Male,Master's,Senior Software Engineer,23.2,New York,184858.95
+58.0,Male,High School,Marketing Manager,17.0,Atlanta,75046.5
+45.0,Male,Master's,Product Manager,18.3,Chicago,135227.87
+48.0,Male,Bachelor's,Financial Analyst,13.0,Chicago,93676.76
+33.0,Female,High School,Research Scientist,9.6,San Francisco,96364.48
+50.0,Female,Master's,Project Manager,13.3,New York,128875.15
+26.0,Female,High School,Graphic Designer,5.0,San Francisco,64547.92
+32.0,Female,Master's,Director,9.2,Chicago,150495.71
+45.0,Female,Bachelor's,Financial Analyst,13.7,Atlanta,91180.72
+54.0,Male,High School,Data Analyst,21.3,San Francisco,98312.88
+36.0,Male,,Graphic Designer,5.0,Austin,60613.08
+43.0,Female,Bachelor's,Operations Manager,13.1,Los Angeles,99253.9
+30.0,Female,PhD,Account Manager,6.4,Atlanta,111150.99
+32.0,Male,High School,Customer Service Representative,1.6,Chicago,34634.11
+57.0,Female,Master's,Director,19.0,Austin,174034.82
+34.0,Male,Bachelor's,Business Analyst,8.6,Atlanta,76376.5
+40.0,Female,Master's,Graphic Designer,11.5,Seattle,105095.84
+30.0,Male,Bachelor's,Data Analyst,9.0,Remote,62158.09
+37.0,Male,High School,Marketing Manager,11.0,Austin,64530.84
+29.0,Male,Master's,Senior Software Engineer,1.9,Austin,106809.67
+44.0,Female,Bachelor's,IT Support Specialist,16.6,Chicago,71292.26
+39.0,Male,Bachelor's,Graphic Designer,12.4,New York,83117.67
+30.0,Male,High School,Software Engineer,7.2,New York,77193.4
+34.0,Male,High School,Data Scientist,1.7,Austin,63448.99
+26.0,Female,Master's,Research Scientist,2.3,Chicago,98741.33
+33.0,Female,Master's,Product Manager,4.3,Seattle,117342.79
+42.0,Male,Bachelor's,Software Engineer,10.2,New York,114545.3
+38.0,Male,Bachelor's,Data Analyst,9.1,Seattle,82958.92
+42.0,Female,Bachelor's,Operations Manager,6.3,Remote,78241.0
+38.0,Male,PhD,IT Support Specialist,2.7,Seattle,99900.49
+28.0,Female,PhD,Research Scientist,3.6,New York,138853.51
+33.0,Female,High School,Sales Associate,12.0,New York,67018.57
+43.0,Male,PhD,Marketing Manager,16.5,Seattle,155240.44
+29.0,Male,High School,Sales Associate,5.4,New York,55470.74
+29.0,Male,Master's,Junior Developer,0.0,Los Angeles,75896.26
+23.0,Male,Bachelor's,Financial Analyst,2.0,Austin,70252.02
+54.0,Male,Bachelor's,Business Analyst,14.6,Remote,79106.91
+54.0,Female,Bachelor's,Sales Manager,16.2,San Francisco,101523.39
+34.0,Male,Bachelor's,Operations Manager,3.9,Atlanta,70125.14
+21.0,Female,High School,Software Engineer,0.0,Chicago,47340.3
+34.0,Female,Bachelor's,Graphic Designer,,San Francisco,103127.08
+48.0,Female,Bachelor's,Data Analyst,9.4,Chicago,77303.2
+35.0,Male,Master's,HR Manager,8.8,New York,112382.04
+42.0,Female,Master's,Director,11.3,Seattle,167289.24
+58.0,Male,PhD,Marketing Manager,24.1,San Francisco,196805.75
+45.0,Female,Bachelor's,Research Scientist,9.2,Remote,86282.98
+36.0,Male,Bachelor's,Graphic Designer,8.8,Austin,66509.67
+49.0,Female,Master's,Director,18.5,San Francisco,191221.08
+45.0,Male,Master's,Business Analyst,16.8,Seattle,133064.82
+35.0,Female,Master's,IT Support Specialist,7.8,Remote,63966.56
+38.0,Female,Master's,Data Scientist,8.2,Seattle,121846.26
+34.0,Male,Bachelor's,Data Scientist,10.2,Atlanta,103112.77
+35.0,Male,Bachelor's,Product Manager,8.7,Chicago,94767.71
+42.0,Female,Master's,Director,14.9,Remote,155669.06
+31.0,Female,PhD,Sales Associate,3.4,Seattle,99204.33
+40.0,Male,Bachelor's,Software Engineer,6.7,New York,93378.89
+35.0,Female,Master's,Senior Software Engineer,8.9,Austin,122922.37
+32.0,Male,Master's,Software Engineer,6.0,New York,122351.27
+28.0,Male,Master's,Software Engineer,2.7,New York,121290.27
+37.0,Female,Master's,Director,10.5,Denver,149296.29
+32.0,Female,Bachelor's,Research Scientist,1.8,Atlanta,71497.45
+44.0,Male,Bachelor's,Graphic Designer,9.0,Seattle,67750.54
+41.0,Male,PhD,HR Manager,14.3,Chicago,132235.85
+45.0,Female,Bachelor's,Senior Software Engineer,19.9,Austin,134547.95
+21.0,Female,Master's,Junior Developer,0.0,Austin,63393.2
+47.0,Female,Bachelor's,Research Scientist,14.8,Remote,101127.96
+48.0,Female,Master's,Financial Analyst,10.9,Seattle,121624.98
+,Female,Bachelor's,Data Analyst,22.4,Los Angeles,120460.82
+39.0,Female,PhD,Product Manager,4.8,New York,143481.02
+57.0,Female,Bachelor's,Operations Manager,27.7,Chicago,125553.87
+49.0,Male,Bachelor's,Junior Developer,14.1,Los Angeles,79380.21
+22.0,Male,High School,Customer Service Representative,1.0,Denver,29727.35
+29.0,Male,Bachelor's,Sales Associate,5.3,Chicago,61763.27
+23.0,Female,Master's,Graphic Designer,0.0,Seattle,78948.72
+51.0,Male,PhD,IT Support Specialist,8.9,Boston,104318.2
+48.0,Female,Bachelor's,Account Manager,17.1,Seattle,111574.45
+35.0,Female,Bachelor's,Business Analyst,12.3,New York,107166.08
+51.0,Female,PhD,Software Engineer,20.0,Seattle,183397.45
+38.0,Male,Bachelor's,Sales Associate,8.4,Atlanta,57947.91
+52.0,Male,Bachelor's,Director,16.9,Denver,150965.89
+43.0,Female,Master's,Director,11.1,Chicago,148717.1
+54.0,Female,Bachelor's,Sales Manager,17.4,Austin,104815.27
+43.0,Male,Bachelor's,Software Engineer,6.5,Seattle,99790.54
+42.0,Female,Bachelor's,Software Engineer,11.3,Remote,93670.91
+38.0,Male,PhD,Project Manager,8.1,Boston,143519.24
+24.0,Male,Master's,Software Engineer,0.0,Atlanta,95367.12
+51.0,Female,Master's,Sales Associate,17.9,Austin,113165.14
+46.0,Female,Bachelor's,HR Manager,10.5,Boston,94162.02
+42.0,Male,Master's,Product Manager,10.5,Austin,130593.72
+43.0,Male,Bachelor's,Sales Associate,9.1,New York,84312.86
+47.0,Female,Bachelor's,Marketing Manager,13.3,Denver,97417.19
+45.0,Male,High School,Marketing Manager,13.7,Chicago,72160.75
+54.0,Female,Bachelor's,Project Manager,21.0,Los Angeles,124205.17
+45.0,Male,Bachelor's,IT Support Specialist,14.7,Seattle,87599.95
+21.0,Male,High School,IT Support Specialist,0.0,Austin,28000.0
+58.0,Female,Bachelor's,Research Scientist,20.7,Chicago,123324.01
+27.0,Male,Bachelor's,Sales Associate,4.1,Los Angeles,59312.46
+56.0,Female,Bachelor's,IT Support Specialist,21.0,New York,119056.43
+32.0,Male,High School,Product Manager,0.0,Denver,80506.83
+52.0,Male,PhD,Graphic Designer,17.3,New York,139743.34
+45.0,Female,High School,HR Manager,13.0,Austin,63723.36
+21.0,Male,High School,Research Scientist,0.0,Boston,65791.94
+35.0,Female,High School,HR Manager,9.0,Atlanta,64912.45
+58.0,Female,Master's,IT Support Specialist,20.5,Atlanta,119661.65
+45.0,Female,Master's,Financial Analyst,18.0,San Francisco,144771.3
+35.0,Female,Master's,Senior Software Engineer,13.0,Denver,133723.63
+54.0,Female,Bachelor's,Account Manager,17.8,Austin,89516.15
+34.0,Female,Bachelor's,Project Manager,12.6,Austin,104037.19
+46.0,Male,Master's,Product Manager,16.6,New York,152762.9
+28.0,Female,High School,IT Support Specialist,3.9,Atlanta,36874.64
+41.0,Female,Bachelor's,Financial Analyst,10.3,San Francisco,98026.61
+39.0,Female,Bachelor's,Software Engineer,11.9,Los Angeles,107393.02
+24.0,Male,PhD,Project Manager,3.0,Atlanta,104178.37
+31.0,Male,Bachelor's,Marketing Manager,7.7,Boston,87480.26
+40.0,Male,PhD,Senior Software Engineer,5.6,Chicago,152461.02
+37.0,Male,High School,Graphic Designer,1.0,New York,58096.76
+31.0,Female,PhD,Account Manager,4.8,San Francisco,127577.16
+30.0,Female,Bachelor's,Graphic Designer,1.8,Chicago,52387.25
+43.0,Female,High School,Customer Service Representative,11.5,Seattle,56109.19
+38.0,Female,Bachelor's,Data Scientist,6.2,Chicago,98634.89
+42.0,Female,High School,Customer Service Representative,12.7,Boston,55390.65
+36.0,Female,Bachelor's,Project Manager,13.8,New York,115774.26
+40.0,Male,Bachelor's,Graphic Designer,7.5,Atlanta,59501.23
+33.0,Female,Bachelor's,Business Analyst,4.6,Denver,66622.17
+22.0,Female,Bachelor's,Customer Service Representative,,Boston,62798.18
+21.0,Male,Bachelor's,Data Scientist,,Seattle,98796.08
+31.0,Male,High School,Graphic Designer,4.8,Atlanta,35739.65
+36.0,Female,Bachelor's,Customer Service Representative,3.2,Denver,33999.64
+45.0,Female,Bachelor's,Sales Manager,14.4,Atlanta,99258.48
+42.0,Male,Bachelor's,Graphic Designer,15.3,Denver,77493.22
+42.0,Male,Bachelor's,Sales Associate,13.7,Austin,68331.41
+37.0,Female,Bachelor's,Graphic Designer,1.3,Seattle,51615.46
+51.0,Female,Bachelor's,Research Scientist,23.8,Boston,134235.74
+33.0,Male,PhD,Sales Manager,4.7,Denver,109321.27
+23.0,Female,Master's,Research Scientist,0.4,New York,113075.21
+34.0,Female,Bachelor's,Financial Analyst,4.2,Remote,67626.68
+21.0,Male,PhD,HR Manager,0.0,Atlanta,95420.26
+34.0,Male,High School,Project Manager,5.0,Remote,61892.45
+37.0,Female,Master's,Junior Developer,9.5,San Francisco,112452.84
+37.0,Female,Master's,Product Manager,8.0,Chicago,117265.06
+40.0,Male,Bachelor's,Project Manager,11.4,Atlanta,102800.68
+30.0,Female,PhD,Project Manager,9.0,Remote,126368.93
+34.0,Female,,Operations Manager,6.5,Austin,62876.2
+38.0,Female,Bachelor's,Marketing Manager,0.0,Boston,90437.02
+29.0,Female,High School,Product Manager,6.8,Chicago,75429.78
+21.0,Female,Master's,IT Support Specialist,0.0,Atlanta,56550.96
+25.0,Female,,Director,4.0,San Francisco,127105.45
+42.0,Male,PhD,Data Scientist,18.2,Chicago,173797.15
+27.0,,High School,Sales Associate,1.3,Chicago,36230.49
+41.0,Male,Bachelor's,Operations Manager,5.8,San Francisco,94247.9
+41.0,Female,Bachelor's,Data Scientist,15.9,Boston,114503.48
+35.0,Male,Master's,Data Scientist,4.8,Remote,92998.9
+27.0,Male,Bachelor's,Financial Analyst,5.8,New York,100925.39
+41.0,Female,PhD,Junior Developer,13.6,Chicago,114026.11
+21.0,,High School,Sales Associate,0.0,San Francisco,43756.39
+51.0,Male,Bachelor's,Sales Associate,26.2,Remote,85097.46
+35.0,Male,Bachelor's,Customer Service Representative,6.4,Austin,54811.04
+34.0,Male,PhD,Marketing Manager,2.7,Remote,101445.08
+45.0,Female,Bachelor's,Project Manager,7.5,Los Angeles,84412.41
+41.0,Male,PhD,HR Manager,15.4,Boston,151991.9
+42.0,Male,Bachelor's,Sales Manager,11.8,Denver,86953.96
+39.0,Female,High School,Junior Developer,12.7,Atlanta,47476.48
+21.0,Female,Master's,Data Analyst,0.0,Boston,96303.17
+33.0,,Bachelor's,Data Scientist,6.7,Denver,88510.79
+31.0,Female,Master's,Junior Developer,2.2,Chicago,72821.94
+35.0,Female,PhD,Financial Analyst,4.5,Los Angeles,110683.5
+27.0,Male,High School,Senior Software Engineer,0.0,Boston,96204.76
+40.0,Male,PhD,HR Manager,11.7,Boston,143736.0
+41.0,Male,High School,Customer Service Representative,10.0,Seattle,45164.49
+26.0,Female,Bachelor's,Marketing Manager,,Denver,70001.63
+,Male,Bachelor's,Customer Service Representative,2.1,San Francisco,58337.27
+35.0,Male,High School,HR Manager,5.1,San Francisco,76659.23
+40.0,Male,Bachelor's,Graphic Designer,19.0,Remote,79991.84
+29.0,Female,Master's,Sales Associate,8.0,Los Angeles,89338.75
+55.0,Male,Master's,Business Analyst,19.4,Chicago,135245.3
+38.0,Male,Master's,Sales Associate,10.1,Austin,79120.4
+29.0,Female,Master's,Research Scientist,0.5,Remote,86286.43
+25.0,Female,Bachelor's,Software Engineer,0.4,Remote,70409.71
+39.0,Female,Master's,Customer Service Representative,18.0,New York,114757.43
+36.0,Male,Bachelor's,Data Scientist,8.1,Atlanta,88234.22
+36.0,Female,Master's,Software Engineer,6.0,New York,123936.48
+41.0,Male,Bachelor's,Senior Software Engineer,8.8,Seattle,124734.38
+34.0,Male,Bachelor's,Financial Analyst,10.6,Denver,84669.5
+48.0,Female,PhD,Project Manager,12.2,Austin,140908.59
+,Male,Bachelor's,Customer Service Representative,4.1,New York,60292.44
+36.0,Male,Bachelor's,IT Support Specialist,13.9,Los Angeles,76242.26
+33.0,Male,PhD,Operations Manager,5.0,Chicago,120663.71
+,Female,Master's,Senior Software Engineer,11.3,San Francisco,152470.38
+33.0,Female,Bachelor's,Data Analyst,9.6,Los Angeles,80567.87
+43.0,Male,Bachelor's,Research Scientist,5.0,Remote,85406.27
+35.0,Male,Bachelor's,IT Support Specialist,10.0,Boston,85102.47
+45.0,Male,Bachelor's,Data Scientist,3.5,Boston,103162.58
+43.0,Female,Master's,HR Manager,14.3,Denver,110328.22
+49.0,Male,Bachelor's,Operations Manager,19.3,Remote,95128.54
+45.0,Male,Master's,Graphic Designer,9.2,Seattle,99390.53
+34.0,Male,Bachelor's,Operations Manager,6.3,Atlanta,82333.06
+41.0,Female,High School,Research Scientist,10.7,Boston,93277.23
+27.0,Male,Master's,Financial Analyst,4.5,Chicago,113424.28
+34.0,Male,Master's,Financial Analyst,12.8,Seattle,136246.57
+21.0,Female,Bachelor's,Research Scientist,0.0,San Francisco,98256.42
+31.0,Male,Bachelor's,Business Analyst,3.3,New York,89244.54
+24.0,Female,High School,Account Manager,0.0,Austin,38927.17
+41.0,Female,Master's,Graphic Designer,6.4,Denver,83661.9
+44.0,Female,Master's,Business Analyst,,Los Angeles,112243.73
+27.0,Female,Master's,Software Engineer,1.3,Remote,72780.59
+50.0,Male,Bachelor's,Research Scientist,16.3,Chicago,126364.93
+41.0,Female,High School,Account Manager,12.6,Los Angeles,83370.05
+46.0,Male,Bachelor's,Product Manager,16.1,New York,136475.18
+40.0,Male,,Operations Manager,3.9,Los Angeles,93285.4
+43.0,Female,Bachelor's,Sales Associate,20.6,Chicago,87716.09
+46.0,Female,High School,Account Manager,18.2,New York,88283.69
+36.0,Female,Master's,HR Manager,7.8,Boston,113537.12
+55.0,Female,Master's,Junior Developer,17.2,Los Angeles,133346.16
+31.0,Female,High School,Sales Associate,7.2,New York,66780.83
+47.0,Female,Master's,Account Manager,18.9,Chicago,135586.55
+43.0,Male,Master's,Research Scientist,12.9,New York,140067.59
+38.0,Female,Master's,Director,6.0,Chicago,143932.79
+40.0,Female,Master's,Operations Manager,,San Francisco,142293.96
+33.0,Male,Master's,Graphic Designer,8.5,Atlanta,89986.44
+49.0,Female,Bachelor's,Senior Software Engineer,21.4,Remote,132690.88
+33.0,Female,PhD,Operations Manager,10.1,Seattle,136513.98
+49.0,Male,Bachelor's,Data Scientist,14.7,San Francisco,123373.76
+56.0,Female,High School,IT Support Specialist,20.8,Austin,59683.01
+28.0,Male,Bachelor's,Data Analyst,7.0,Atlanta,75487.16
+33.0,Male,Bachelor's,Operations Manager,12.0,Remote,83417.63
+33.0,Male,Bachelor's,Business Analyst,0.3,Seattle,81318.0
+42.0,Female,Master's,Senior Software Engineer,10.5,Denver,134170.85
+48.0,Female,,Operations Manager,12.0,Los Angeles,97261.48
+40.0,Female,Master's,Data Scientist,18.8,Denver,145837.79
+38.0,Female,Bachelor's,Marketing Manager,10.3,New York,102314.33
+32.0,Male,Bachelor's,Project Manager,2.3,Chicago,75430.86
+39.0,Female,Bachelor's,Marketing Manager,6.2,New York,100290.39
+43.0,Female,PhD,Operations Manager,5.0,New York,137671.36
+43.0,Female,Bachelor's,Financial Analyst,8.7,New York,93444.47
+35.0,Female,Master's,Financial Analyst,0.0,Boston,84091.2
+41.0,Male,Bachelor's,Operations Manager,7.4,Los Angeles,89982.78
+36.0,Female,Master's,Data Analyst,3.7,Boston,85456.62
+46.0,Female,Master's,Sales Manager,12.3,Chicago,125708.16
+41.0,Male,High School,Graphic Designer,9.5,Los Angeles,60112.44
+36.0,Female,PhD,Data Scientist,7.7,New York,141541.74
+26.0,Female,Master's,Junior Developer,5.0,Seattle,77917.43
+33.0,Female,Master's,Sales Manager,1.3,Atlanta,83255.24
+31.0,Female,Master's,Business Analyst,8.4,Los Angeles,109506.01
+53.0,Female,PhD,Software Engineer,18.3,Chicago,157277.48
+26.0,Male,Bachelor's,Software Engineer,3.8,Boston,81895.58
+37.0,Male,Bachelor's,Senior Software Engineer,6.9,Seattle,127772.54
+50.0,Female,Master's,Business Analyst,13.8,Atlanta,100694.27
+36.0,Female,High School,IT Support Specialist,11.2,Austin,46690.93
+50.0,Female,,Senior Software Engineer,17.2,Los Angeles,142058.05
+23.0,Female,Bachelor's,Junior Developer,0.0,Austin,51365.2
+24.0,Female,Master's,Financial Analyst,0.9,Remote,65407.76
+41.0,Female,Master's,Account Manager,18.6,New York,136822.51
+24.0,Female,PhD,Marketing Manager,0.0,Denver,98777.04
+39.0,Female,Master's,Financial Analyst,5.6,Boston,101675.96
+38.0,Female,Master's,Senior Software Engineer,6.3,Remote,120816.82
+62.0,Female,Master's,Software Engineer,20.1,Austin,137805.45
+41.0,Male,High School,Software Engineer,10.8,Boston,87037.04
+37.0,Female,Bachelor's,Director,7.5,Chicago,121847.95
+30.0,Female,Bachelor's,Financial Analyst,9.0,Remote,78975.57
+32.0,Male,Master's,Graphic Designer,9.1,Boston,96954.19
+42.0,Male,Bachelor's,IT Support Specialist,12.5,Atlanta,79412.6
+42.0,Male,Master's,Data Analyst,10.3,Los Angeles,102359.1
+28.0,Male,Bachelor's,Customer Service Representative,5.1,Chicago,37795.81
+32.0,Female,Master's,Account Manager,0.1,Atlanta,66414.0
+30.0,Male,High School,Sales Associate,9.0,New York,52097.5
+35.0,Female,Bachelor's,Financial Analyst,7.0,Remote,67207.87
+47.0,Female,Bachelor's,Customer Service Representative,17.5,Los Angeles,71317.11
+45.0,Female,Bachelor's,Financial Analyst,9.0,San Francisco,101072.71
+48.0,Female,Bachelor's,Marketing Manager,10.1,Denver,82985.04
+47.0,Female,Bachelor's,Research Scientist,15.5,Austin,100556.63
+41.0,Male,High School,Marketing Manager,7.3,Remote,60363.34
+40.0,Female,Bachelor's,Project Manager,3.0,Atlanta,75688.26
+21.0,Male,High School,IT Support Specialist,0.0,San Francisco,56969.73
+31.0,Male,High School,HR Manager,6.9,Seattle,79401.52
+42.0,Female,Bachelor's,Sales Associate,14.7,Chicago,75029.72
+30.0,Female,High School,IT Support Specialist,6.2,Austin,43687.25
+21.0,Female,High School,Data Scientist,0.0,Denver,59610.28
+36.0,Female,High School,Senior Software Engineer,14.8,Los Angeles,97653.14
+42.0,Female,Bachelor's,Director,15.7,New York,142339.98
+45.0,Male,Master's,Sales Manager,11.8,Boston,119572.37
+35.0,Male,Bachelor's,Research Scientist,9.6,Los Angeles,92920.18
+36.0,Male,Bachelor's,Junior Developer,11.6,New York,86800.43
+45.0,Male,High School,Account Manager,16.7,Seattle,88463.16
+45.0,Female,Bachelor's,Sales Associate,13.4,San Francisco,95484.38
+39.0,Female,Bachelor's,Data Scientist,5.7,Denver,88377.33
+57.0,Male,Bachelor's,Product Manager,18.1,Chicago,116705.1
+21.0,Male,Bachelor's,Director,0.0,Denver,102364.09
+38.0,Female,High School,Software Engineer,12.7,Austin,79111.31
+45.0,Female,Bachelor's,HR Manager,10.4,Remote,68449.23
+26.0,Female,High School,Software Engineer,4.0,Chicago,46738.0
+33.0,Female,PhD,Research Scientist,,Seattle,139305.54
+37.0,Male,Bachelor's,Junior Developer,5.5,Remote,46959.42
+35.0,Female,Bachelor's,Project Manager,,Remote,67501.62
+37.0,Female,Bachelor's,Account Manager,5.3,New York,82403.93
+21.0,Female,Bachelor's,Graphic Designer,0.0,Remote,57124.25
+51.0,Male,PhD,Research Scientist,19.7,Atlanta,163347.99
+36.0,Male,Master's,Financial Analyst,6.5,Atlanta,95552.84
+41.0,Male,PhD,Research Scientist,14.2,San Francisco,166447.64
+39.0,Male,Master's,Project Manager,,Seattle,110986.25
+22.0,Male,Master's,Director,0.0,Remote,125642.96
+40.0,Female,Bachelor's,Business Analyst,7.5,Chicago,83047.17
+48.0,Female,High School,Research Scientist,14.9,Remote,73920.89
+40.0,Male,Master's,Director,13.4,Los Angeles,164748.48
+43.0,Male,High School,Senior Software Engineer,13.8,Los Angeles,110976.55
+32.0,Male,Bachelor's,Sales Associate,11.0,Boston,76824.28
+21.0,Female,High School,Software Engineer,0.0,Atlanta,53860.33
+49.0,Male,Bachelor's,Sales Associate,14.1,Remote,65650.26
+35.0,Male,High School,Sales Manager,14.0,Denver,67270.0
+30.0,Female,High School,Financial Analyst,8.5,Boston,67275.96
+36.0,Female,Bachelor's,Marketing Manager,7.9,Austin,85104.7
+25.0,Male,Master's,Project Manager,0.0,Austin,86501.94
+23.0,Male,Bachelor's,Project Manager,2.0,Remote,67209.23
+28.0,Male,Bachelor's,Sales Manager,1.7,Atlanta,67376.75
+50.0,Male,Bachelor's,Director,17.4,Atlanta,149898.52
+54.0,Female,High School,Research Scientist,19.0,Chicago,88556.96
+35.0,Male,Bachelor's,Project Manager,10.6,Seattle,94424.11
+38.0,Female,Bachelor's,Financial Analyst,8.0,Boston,89678.99
+22.0,Male,Master's,Sales Associate,0.0,Atlanta,69887.2
+21.0,Male,Master's,Financial Analyst,0.0,New York,100847.6
+41.0,Male,Bachelor's,Operations Manager,14.4,Los Angeles,99683.49
+42.0,Female,Bachelor's,IT Support Specialist,13.7,Boston,78998.39
+,Male,Bachelor's,Sales Manager,17.4,Austin,101145.18
+34.0,Male,Bachelor's,Customer Service Representative,7.1,Boston,46765.08
+36.0,Male,Master's,Sales Manager,10.6,Atlanta,102734.0
+52.0,Female,Bachelor's,Junior Developer,14.7,New York,89154.29
+50.0,Female,Master's,Marketing Manager,8.4,Denver,92156.17
+29.0,Male,PhD,IT Support Specialist,0.0,Remote,65892.07
+42.0,Male,Master's,Data Scientist,12.3,Seattle,129763.49
+37.0,Male,Bachelor's,Sales Associate,12.3,Remote,59404.66
+34.0,Male,Bachelor's,Graphic Designer,6.3,Atlanta,48658.0
+50.0,Female,Bachelor's,Junior Developer,10.1,Chicago,67870.26
+43.0,Female,Bachelor's,Project Manager,14.8,Chicago,95857.76
+29.0,Male,Master's,Data Analyst,3.1,Seattle,86934.84
+24.0,Male,Master's,Sales Associate,0.0,Austin,58334.14
+43.0,Male,Bachelor's,Project Manager,14.2,Remote,93452.01
+35.0,Female,High School,Graphic Designer,9.5,Denver,48656.36
+36.0,Female,Master's,Business Analyst,13.0,New York,119187.18
+29.0,Male,Bachelor's,Senior Software Engineer,4.0,Seattle,119930.95
+33.0,Female,Bachelor's,IT Support Specialist,0.0,Seattle,58097.57
+50.0,Female,Bachelor's,Director,19.1,Remote,140032.03
+30.0,Female,High School,Business Analyst,7.0,Chicago,65980.9
+21.0,Female,Master's,Research Scientist,0.0,Denver,97836.75
+46.0,Male,High School,Project Manager,14.5,San Francisco,101035.36
+41.0,Female,Master's,Junior Developer,17.0,Austin,111301.77
+55.0,Female,Bachelor's,Marketing Manager,20.8,New York,126220.7
+44.0,Female,Bachelor's,Director,8.8,San Francisco,144350.28
+30.0,Female,High School,Customer Service Representative,,New York,47146.87
+46.0,Male,Bachelor's,Project Manager,18.3,Seattle,117965.37
+49.0,Male,PhD,Data Analyst,23.7,San Francisco,188123.34
+31.0,Male,High School,Sales Manager,8.0,New York,73271.35
+39.0,Female,Bachelor's,Account Manager,8.3,Atlanta,77467.56
+23.0,Male,Master's,Data Analyst,2.0,Los Angeles,83521.81
+39.0,Female,Master's,IT Support Specialist,12.1,Austin,96979.49
+21.0,Female,High School,Project Manager,0.0,Seattle,68516.98
+40.0,,Bachelor's,Product Manager,8.5,Seattle,109455.03
+31.0,Female,PhD,Product Manager,7.2,Boston,141260.47
+38.0,Female,High School,Sales Associate,5.8,San Francisco,53940.04
+40.0,Male,Bachelor's,Data Analyst,4.1,Austin,70158.11
+41.0,Female,PhD,Project Manager,14.1,Chicago,156756.59
+33.0,Male,High School,Sales Associate,2.9,Atlanta,28000.0
+30.0,Male,Bachelor's,Sales Associate,9.0,Chicago,62342.19
+36.0,Female,Bachelor's,Data Scientist,7.6,Boston,91642.17
+46.0,Male,Bachelor's,Software Engineer,18.8,Seattle,114652.54
+30.0,Male,Bachelor's,Financial Analyst,0.0,Los Angeles,70033.19
+41.0,Female,Bachelor's,Sales Manager,3.8,Austin,78402.8
+37.0,Female,Master's,Account Manager,12.9,New York,125429.34
+30.0,Male,High School,Business Analyst,5.1,Los Angeles,58801.17
+38.0,Female,Bachelor's,Sales Associate,5.2,New York,64061.69
+35.0,Male,High School,Operations Manager,9.1,Denver,59678.06
+33.0,Female,High School,Data Analyst,6.4,Los Angeles,58295.97
+38.0,Female,Bachelor's,Marketing Manager,11.0,Boston,92986.81
+31.0,Male,Bachelor's,Research Scientist,5.9,New York,107651.65
+28.0,Female,High School,Project Manager,0.9,San Francisco,77088.02
+24.0,Female,Bachelor's,Customer Service Representative,1.6,New York,54843.45
+61.0,Female,High School,Data Scientist,18.2,Seattle,112117.19
+36.0,Male,Bachelor's,Sales Manager,8.4,San Francisco,106980.16
+35.0,Male,Master's,HR Manager,10.1,Denver,104323.45
+54.0,Female,Bachelor's,Customer Service Representative,20.5,Remote,73850.88
+44.0,,Bachelor's,Financial Analyst,13.3,Atlanta,88432.62
+52.0,Female,Bachelor's,Data Scientist,19.0,Seattle,132480.55
+28.0,Female,,IT Support Specialist,3.9,Los Angeles,56952.84
+42.0,Female,Bachelor's,Sales Associate,13.4,Remote,68953.22
+21.0,,Master's,Sales Associate,0.0,Atlanta,58676.15
+30.0,Female,Bachelor's,Operations Manager,5.0,Atlanta,83263.39
+38.0,Female,Bachelor's,Director,14.8,Denver,136196.33
+31.0,Male,PhD,Product Manager,,Chicago,106118.72
+39.0,Female,High School,Sales Associate,6.3,Remote,28000.0
+60.0,Female,Bachelor's,Account Manager,24.4,Denver,108648.24
+58.0,Female,PhD,Data Scientist,19.6,Denver,162315.22
+31.0,Female,Master's,Sales Manager,5.2,Boston,119497.43
+40.0,Female,Bachelor's,Marketing Manager,12.9,Los Angeles,100751.08
+39.0,Male,Bachelor's,Data Scientist,11.9,Los Angeles,114411.21
+47.0,Female,Bachelor's,IT Support Specialist,14.6,Chicago,76342.21
+33.0,Male,High School,Senior Software Engineer,2.9,Seattle,84152.93
+23.0,Male,Master's,Product Manager,0.0,Seattle,110278.51
+32.0,Male,Master's,Project Manager,4.3,Austin,91896.03
+49.0,Female,High School,Marketing Manager,18.9,Chicago,68596.33
+41.0,Male,Master's,Financial Analyst,15.0,Los Angeles,125293.55
+41.0,Male,Master's,Account Manager,9.8,Boston,106230.54
+31.0,Female,Bachelor's,Software Engineer,4.5,New York,98465.07
+36.0,Male,PhD,HR Manager,11.6,Chicago,137893.38
+39.0,Female,Bachelor's,Operations Manager,18.0,Remote,98749.27
+37.0,Male,,Project Manager,14.5,Remote,120411.15
+42.0,Female,Master's,Marketing Manager,6.6,Austin,101594.95
+47.0,Male,High School,Account Manager,16.3,Austin,69190.14
+21.0,Female,PhD,Customer Service Representative,0.0,Seattle,88234.99
+31.0,Female,Bachelor's,Graphic Designer,7.9,Austin,66329.86
+33.0,Male,High School,Business Analyst,12.0,Chicago,68097.23
+47.0,Male,Bachelor's,Senior Software Engineer,15.5,Boston,127956.47
+55.0,Male,Master's,Data Analyst,20.6,Los Angeles,136593.63
+39.0,Female,Bachelor's,Senior Software Engineer,15.7,New York,143687.39
+30.0,Male,Master's,Customer Service Representative,1.7,Los Angeles,72569.3
+56.0,Male,Bachelor's,HR Manager,19.8,Chicago,109858.42
+27.0,Female,Master's,Senior Software Engineer,5.3,San Francisco,141621.42
+45.0,Male,Master's,Research Scientist,18.5,Seattle,156268.13
+31.0,Male,Bachelor's,Data Scientist,2.1,New York,108177.12
+29.0,Female,Master's,Business Analyst,6.5,San Francisco,116293.88
+54.0,Male,Bachelor's,Customer Service Representative,22.6,San Francisco,110234.33
+41.0,Male,Master's,Senior Software Engineer,15.5,Seattle,161027.44
+37.0,Male,High School,Customer Service Representative,6.1,Los Angeles,48144.11
+37.0,Male,Master's,Financial Analyst,6.5,Remote,84938.2
+46.0,Female,High School,Software Engineer,6.0,Atlanta,61824.25
+32.0,Female,Master's,Director,6.6,Remote,137910.27
+32.0,Male,Bachelor's,Sales Manager,11.0,Austin,98791.38
+41.0,Female,Bachelor's,Product Manager,10.7,Boston,115854.17
+34.0,Female,Bachelor's,IT Support Specialist,6.1,Denver,65160.97
+31.0,Female,High School,Sales Associate,7.0,Chicago,34288.89
+28.0,Male,High School,Customer Service Representative,2.8,Remote,28000.0
+31.0,Male,Bachelor's,Marketing Manager,2.2,Atlanta,71244.69
+43.0,Female,Bachelor's,Director,16.8,Chicago,153410.02
+45.0,Male,Bachelor's,Senior Software Engineer,7.9,Seattle,127524.51
+38.0,Male,Bachelor's,Graphic Designer,5.0,Remote,57163.3
+32.0,Male,Bachelor's,Research Scientist,9.8,Denver,100254.07
+35.0,Female,Bachelor's,Sales Associate,2.9,Chicago,44892.95
+37.0,Female,Master's,Sales Associate,11.7,Chicago,93013.49
+60.0,Female,PhD,Marketing Manager,15.4,San Francisco,160220.79
+28.0,Female,,Product Manager,1.2,Remote,78459.19
+37.0,Female,High School,Junior Developer,3.5,Chicago,38582.25
+,Female,PhD,Senior Software Engineer,0.0,Seattle,137965.65
+29.0,Female,Bachelor's,HR Manager,8.0,Los Angeles,81447.63
+21.0,Male,Bachelor's,HR Manager,0.0,Boston,73348.7
+27.0,Female,High School,Graphic Designer,2.7,Los Angeles,47696.93
+52.0,Male,Bachelor's,Data Scientist,18.5,Austin,115980.34
+,Female,Bachelor's,Financial Analyst,8.2,Remote,68930.23
+46.0,Female,Master's,Marketing Manager,9.8,Los Angeles,114579.03
+46.0,,Bachelor's,Research Scientist,16.9,Boston,115266.72
+30.0,Male,Bachelor's,Customer Service Representative,3.9,Los Angeles,49922.58
+,Male,Master's,Customer Service Representative,8.6,Chicago,82699.58
+33.0,Female,High School,Data Analyst,0.0,Seattle,56445.0
+32.0,Female,Master's,Product Manager,1.1,Chicago,103414.29
+38.0,Female,Master's,Data Scientist,3.2,Los Angeles,107900.23
+52.0,Male,Master's,Product Manager,20.3,Chicago,154850.42
+,Male,Bachelor's,Data Analyst,,Denver,77111.22
+35.0,Female,High School,Software Engineer,7.6,Austin,73300.78
+39.0,Female,Bachelor's,Junior Developer,11.3,Los Angeles,63470.33
+25.0,Female,Bachelor's,Customer Service Representative,2.7,Los Angeles,54284.12
+37.0,Female,Bachelor's,IT Support Specialist,15.5,Remote,73574.96
+45.0,Male,Bachelor's,Senior Software Engineer,12.6,New York,129662.94
+39.0,Male,Master's,Data Analyst,10.9,Austin,95280.29
+42.0,Female,Master's,Operations Manager,21.0,Los Angeles,134656.05
+43.0,Female,High School,Data Scientist,17.5,Los Angeles,97675.59
+34.0,Female,Bachelor's,Senior Software Engineer,0.9,New York,115638.78
+42.0,Female,Master's,Graphic Designer,9.7,Boston,99544.98
+53.0,Male,Master's,Research Scientist,13.4,San Francisco,147787.6
+45.0,Female,High School,Junior Developer,12.5,Denver,50522.03
+41.0,Female,Bachelor's,Product Manager,12.8,Austin,106750.66
+40.0,Male,Master's,Research Scientist,9.1,Los Angeles,126457.03
+37.0,Female,PhD,Software Engineer,3.8,Boston,125388.4
+42.0,Male,Master's,Product Manager,15.2,Los Angeles,151225.14
+34.0,Female,PhD,Marketing Manager,6.7,Denver,119959.44
+63.0,Female,High School,Financial Analyst,23.9,Seattle,91550.6
+42.0,Male,High School,Graphic Designer,0.0,Seattle,57508.99
+53.0,Female,Bachelor's,Junior Developer,6.5,San Francisco,65550.17
+49.0,Female,Bachelor's,Graphic Designer,16.9,Denver,81019.94
+44.0,Female,Master's,Research Scientist,19.6,San Francisco,153870.63
+22.0,Male,Bachelor's,Research Scientist,0.7,Atlanta,66888.48
+44.0,Male,Bachelor's,Data Analyst,10.5,San Francisco,98056.43
+39.0,Male,Bachelor's,Business Analyst,11.4,Boston,91353.94
+48.0,Female,Bachelor's,Operations Manager,14.5,Boston,99569.45
+32.0,Female,Master's,Sales Associate,7.6,Denver,77936.39
+32.0,Male,High School,Business Analyst,0.0,Boston,60098.02
+56.0,Female,Bachelor's,Business Analyst,17.7,Boston,100207.89
+53.0,Male,Master's,Product Manager,23.1,Seattle,178927.61
+35.0,Female,Bachelor's,IT Support Specialist,13.4,Austin,87346.62
+,Female,,IT Support Specialist,4.7,Atlanta,78087.56
+38.0,Female,Bachelor's,Customer Service Representative,5.4,Austin,56416.88
+39.0,Female,Bachelor's,Project Manager,6.7,Denver,84367.07
+22.0,Male,PhD,Research Scientist,0.0,Austin,107224.5
+42.0,Male,Master's,Operations Manager,12.2,Los Angeles,138799.19
+39.0,Male,High School,Research Scientist,3.1,Boston,81224.27
+21.0,Male,Master's,Product Manager,0.0,Boston,101983.25
+42.0,Female,High School,Data Analyst,14.2,Seattle,82687.19
+49.0,Male,High School,Sales Associate,17.7,Austin,60990.83
+22.0,Male,PhD,Sales Manager,0.0,Austin,100328.82
+49.0,Female,Master's,Operations Manager,20.0,Chicago,129913.01
+41.0,Female,High School,Data Analyst,0.0,Atlanta,45398.45
+57.0,Female,High School,Data Analyst,18.4,Denver,79671.95
+39.0,Female,Master's,Operations Manager,14.7,Austin,119893.91
+63.0,Female,PhD,Marketing Manager,24.4,Boston,190502.58
+35.0,Male,Master's,Project Manager,1.6,Austin,86053.2
+55.0,Male,High School,Operations Manager,20.8,Seattle,100368.49
+38.0,Male,,Data Analyst,7.6,Los Angeles,94800.04
+60.0,Male,Bachelor's,Project Manager,22.3,Remote,106009.95
+45.0,Male,Master's,Senior Software Engineer,17.7,San Francisco,171756.59
+36.0,Female,High School,Graphic Designer,6.0,Remote,39198.96
+46.0,Male,Bachelor's,Junior Developer,16.8,New York,97915.32
+42.0,Male,Master's,Graphic Designer,12.9,Chicago,100417.42
+21.0,Male,High School,Research Scientist,0.0,Boston,85170.14
+32.0,Female,Master's,Senior Software Engineer,1.6,Austin,108292.22
+21.0,Male,Bachelor's,Graphic Designer,0.0,Austin,48792.06
+32.0,Female,Bachelor's,Business Analyst,4.9,San Francisco,99924.45
+47.0,Female,Bachelor's,Operations Manager,20.1,New York,121989.76
+48.0,Male,PhD,Graphic Designer,17.4,Boston,141290.88
+37.0,Female,Bachelor's,Account Manager,13.3,Atlanta,93125.02
+27.0,Female,Master's,Data Scientist,5.2,San Francisco,126795.17
+42.0,Male,Master's,Sales Manager,19.6,Denver,145646.82
+38.0,Female,High School,Data Scientist,4.2,Los Angeles,73997.71
+49.0,Male,Master's,Business Analyst,19.9,Atlanta,126434.14
+45.0,Female,Master's,Product Manager,19.4,Denver,151823.17
+46.0,Male,High School,Marketing Manager,20.6,San Francisco,99332.74
+38.0,Male,PhD,Marketing Manager,8.5,Denver,127952.61
+38.0,Male,Bachelor's,Junior Developer,8.0,Los Angeles,66479.64
+39.0,Male,,Marketing Manager,16.8,Seattle,108087.73
+51.0,Female,Bachelor's,Marketing Manager,23.0,New York,132746.13
+43.0,Male,High School,IT Support Specialist,13.4,Denver,52471.53
+35.0,Female,High School,Research Scientist,14.0,Atlanta,72373.8
+28.0,,Bachelor's,Account Manager,3.4,New York,83172.19
+31.0,Male,Bachelor's,Director,4.5,Boston,116944.7
+26.0,Male,High School,Software Engineer,5.0,San Francisco,73962.07
+44.0,Female,High School,Data Analyst,1.5,Austin,36160.1
+29.0,Male,Master's,Customer Service Representative,8.0,San Francisco,98972.26
+31.0,Female,Bachelor's,Software Engineer,7.2,Boston,95898.69
+45.0,Male,Bachelor's,Junior Developer,7.4,Denver,53123.86
+37.0,Male,PhD,Account Manager,16.0,Boston,145811.13
+39.0,Female,Bachelor's,HR Manager,16.0,New York,109400.72
+51.0,Female,High School,Project Manager,16.5,New York,88712.96
+23.0,Male,Master's,Sales Associate,0.0,Remote,53545.63
+21.0,Male,Bachelor's,Sales Associate,0.0,Boston,49111.36
+33.0,Male,Bachelor's,Research Scientist,0.0,Boston,82116.35
+23.0,Male,Bachelor's,Senior Software Engineer,2.0,New York,112419.0
+40.0,Female,Bachelor's,Sales Associate,10.2,Denver,47505.06
+27.0,Female,Master's,Account Manager,0.0,Austin,79465.83
+45.0,Male,High School,Software Engineer,16.3,Chicago,76943.73
+22.0,Female,Bachelor's,Marketing Manager,1.0,Atlanta,65524.99
+36.0,Female,Bachelor's,Research Scientist,10.7,Chicago,101004.07
+46.0,Male,Bachelor's,Business Analyst,4.9,Denver,81006.61
+41.0,Female,Bachelor's,Business Analyst,9.8,Chicago,86842.84
+45.0,Female,Bachelor's,Data Analyst,21.7,Austin,96503.63
+45.0,Female,Bachelor's,Product Manager,13.0,Remote,106283.74
+30.0,Male,Bachelor's,Research Scientist,3.3,Seattle,106866.16
+44.0,Female,Bachelor's,Graphic Designer,10.5,Chicago,78657.16
+29.0,Male,High School,Financial Analyst,5.0,Denver,56540.31
+54.0,Female,Bachelor's,Business Analyst,19.6,Chicago,97241.91
+27.0,Female,Bachelor's,Marketing Manager,0.0,Remote,61740.3
+21.0,Male,Bachelor's,Sales Associate,0.0,Austin,36304.55
+21.0,Male,PhD,Junior Developer,0.0,Austin,73562.0
+45.0,Male,High School,Junior Developer,16.0,Seattle,67712.92
+34.0,Female,High School,Data Analyst,5.1,San Francisco,77242.13
+29.0,Male,PhD,Sales Manager,8.0,San Francisco,137548.93
+55.0,Female,Bachelor's,Operations Manager,19.9,Los Angeles,112216.52
+51.0,Male,High School,IT Support Specialist,13.6,Seattle,62915.23
+42.0,Male,Master's,Product Manager,17.4,New York,149471.12
+33.0,Male,High School,Project Manager,12.0,Boston,77213.81
+23.0,Female,High School,Graphic Designer,2.0,Boston,52515.98
+36.0,Male,Master's,Data Scientist,8.9,Los Angeles,129556.34
+27.0,Female,Bachelor's,Sales Manager,0.0,Atlanta,70686.28
+41.0,Female,PhD,Data Analyst,18.8,San Francisco,166572.61
+31.0,Female,Master's,Junior Developer,0.0,Austin,59150.21
+26.0,Male,Master's,Junior Developer,1.9,New York,71974.8
+27.0,Male,High School,IT Support Specialist,6.0,San Francisco,55580.58
+33.0,Female,Bachelor's,Financial Analyst,12.0,Boston,80198.5
+58.0,Female,Bachelor's,Customer Service Representative,25.7,Remote,84089.45
+55.0,Male,Master's,Project Manager,19.7,Seattle,142613.23
+21.0,Male,Bachelor's,IT Support Specialist,0.0,Chicago,52074.05
+34.0,Female,Bachelor's,IT Support Specialist,11.2,Los Angeles,75915.85
+35.0,Female,Bachelor's,Research Scientist,7.0,Los Angeles,89741.91
+43.0,Female,Bachelor's,Account Manager,11.2,San Francisco,108610.44
+30.0,Female,Bachelor's,Junior Developer,5.5,Seattle,64561.81
+36.0,Female,Master's,IT Support Specialist,8.0,Los Angeles,84153.89
+31.0,Male,Bachelor's,Sales Associate,3.0,Los Angeles,63263.31
+45.0,Female,Bachelor's,IT Support Specialist,12.0,Austin,76624.39
+52.0,Male,Master's,HR Manager,15.8,Denver,123632.37
+35.0,Female,Master's,Research Scientist,7.6,Chicago,113002.58
+46.0,Male,,Sales Manager,13.4,Boston,99200.77
+36.0,Female,Master's,Junior Developer,3.0,Atlanta,74614.98
+33.0,Male,High School,Data Analyst,11.5,Denver,67632.29
+33.0,Male,Bachelor's,Software Engineer,12.0,Chicago,103510.09
+32.0,Female,,Data Scientist,6.9,Seattle,138428.28
+26.0,Female,Master's,Business Analyst,0.0,Boston,83067.86
+38.0,Female,High School,Project Manager,4.8,Chicago,69508.32
+35.0,Male,High School,Data Analyst,9.2,Remote,69491.31
+36.0,,Bachelor's,IT Support Specialist,11.2,Atlanta,72369.81
+43.0,Female,Bachelor's,Junior Developer,22.0,Atlanta,91890.98
+50.0,Male,Master's,Sales Manager,12.1,Denver,106313.32
+52.0,Male,Bachelor's,Graphic Designer,17.5,Los Angeles,80519.79
+39.0,,Master's,Account Manager,13.8,Austin,122303.26
+35.0,Male,Master's,IT Support Specialist,3.4,Chicago,62131.62
+21.0,Male,PhD,Data Scientist,0.0,Boston,111318.33
+50.0,Male,Bachelor's,HR Manager,16.3,Seattle,119920.56
+32.0,Male,Master's,Senior Software Engineer,2.4,Denver,106009.35
+39.0,Male,Master's,Software Engineer,7.9,Austin,108810.41
+48.0,Female,Master's,Sales Associate,15.8,Atlanta,100068.13
+21.0,Male,Bachelor's,Operations Manager,0.0,Boston,64826.5
+38.0,Female,Bachelor's,Product Manager,8.4,New York,116373.55
+28.0,Female,High School,Senior Software Engineer,7.0,New York,106648.6
+41.0,Male,Master's,Customer Service Representative,7.7,Denver,70542.28
+36.0,Male,Bachelor's,HR Manager,11.5,Chicago,83106.26
+56.0,Male,Bachelor's,Software Engineer,18.2,Remote,101079.32
+55.0,Female,Bachelor's,Data Scientist,14.7,Remote,107617.29
+33.0,Male,High School,Account Manager,7.1,Denver,56799.81
+44.0,Female,Bachelor's,Marketing Manager,13.9,New York,104821.48
+26.0,Female,Bachelor's,Marketing Manager,4.8,Atlanta,82993.13
+32.0,Male,Master's,Sales Manager,7.7,Seattle,114331.9
+57.0,Female,Master's,Financial Analyst,18.8,Chicago,122277.47
+45.0,Female,PhD,Operations Manager,17.5,Denver,143960.52
+46.0,Female,Master's,IT Support Specialist,12.0,Boston,93421.23
+55.0,Male,Bachelor's,Research Scientist,19.0,New York,121315.43
+51.0,Female,Bachelor's,Sales Associate,15.9,Seattle,88817.91
+44.0,Male,High School,Business Analyst,2.0,Boston,66716.23
+26.0,Male,Bachelor's,IT Support Specialist,5.0,Austin,51073.28
+35.0,Female,Bachelor's,Marketing Manager,13.9,Chicago,102593.88
+45.0,Male,High School,Business Analyst,18.9,San Francisco,94465.91
+37.0,Male,Master's,Data Analyst,8.9,San Francisco,117090.95
+52.0,Female,Bachelor's,Software Engineer,20.3,Austin,113698.76
+37.0,Female,Bachelor's,Software Engineer,6.1,Austin,83557.63
+50.0,Female,Bachelor's,Graphic Designer,19.8,Boston,102114.93
+25.0,Male,Master's,Marketing Manager,4.0,Seattle,113143.63
+40.0,Male,Master's,Director,11.1,Atlanta,141426.08
+37.0,Male,Bachelor's,Data Scientist,0.4,Austin,79547.44
+34.0,Male,Bachelor's,Customer Service Representative,13.0,Boston,69938.2
+,Female,Bachelor's,Research Scientist,5.7,Remote,79451.29
+37.0,Female,Bachelor's,Junior Developer,9.3,Atlanta,63285.52
+42.0,Male,Master's,Product Manager,20.5,Atlanta,164100.52
+39.0,Female,Bachelor's,Customer Service Representative,13.8,Boston,75626.12
+41.0,Male,Bachelor's,Financial Analyst,8.4,Remote,73813.73
+,Female,Bachelor's,Sales Associate,0.0,Chicago,48486.54
+48.0,Female,Master's,Financial Analyst,17.9,Denver,126798.08
+47.0,Male,Master's,Director,15.8,Chicago,154005.27
+34.0,Male,Master's,Customer Service Representative,11.8,Seattle,105147.0
+26.0,Female,Bachelor's,HR Manager,1.8,Remote,50429.5
