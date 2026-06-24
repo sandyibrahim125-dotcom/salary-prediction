@@ -11,7 +11,7 @@ import os
 import joblib
 import numpy as np
 
-from model.preprocess import build_input_dataframe, load_metadata, validate_numeric_ranges
+from preprocess import build_input_dataframe, load_metadata, validate
 
 _MODEL_DIR = os.path.dirname(os.path.abspath(__file__))
 _MODEL_PATH = os.path.join(_MODEL_DIR, "salary_model.pkl")
