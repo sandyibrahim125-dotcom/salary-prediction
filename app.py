@@ -9,7 +9,7 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 import pandas as pd
 import streamlit as st
 
-from model.predict import inference, get_feature_metadata
+from predict import inference, get_feature_metadata
 
 st.set_page_config(
     page_title="Salary Predictor",
